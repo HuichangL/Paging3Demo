@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ProgressBarStyle">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/shape_loading</item>
+        <item name="android:indeterminateDuration">1000</item>
+    </style>
+
+</resources>
